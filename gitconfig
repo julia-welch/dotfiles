@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = julia.welchering@gmail.com
+	name = Julia Welchering
